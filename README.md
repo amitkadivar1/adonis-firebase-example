@@ -13,14 +13,15 @@ This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
 ## Setup
 
-Use the adonis command to install the blueprint
+- First copy .env.example in .env
+- Using this command copy cp .env.example .env
+  Use the adonis command to install the blueprint
 
 ```bash
 adonis new yardstick
 ```
 
 or manually clone the repo and then run `npm install`.
-
 
 ### Migrations
 
